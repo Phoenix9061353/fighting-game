@@ -1,6 +1,6 @@
 # Fighting Game Project
 
-為跟著 Youtube 影片「[JavaScript Fighting Game Tutorial with HTML Canvas](https://youtu.be/vyqbNFMDRGQ)」做出的 project
+為跟著 Youtube 影片「[JavaScript Fighting Game Tutorial with HTML Canvas](https://youtu.be/vyqbNFMDRGQ)」做出的 project  
 所使用的圖片來源也皆來自該影片說明欄的連結
 
 ## 內容
